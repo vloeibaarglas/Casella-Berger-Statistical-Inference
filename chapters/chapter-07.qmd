@@ -1,0 +1,269 @@
+# Chapter 7
+
+## Exercise 7.1
+
+{{< include ../solutions/07-1.md >}}
+
+## Exercise 7.2
+
+{{< include ../solutions/07-2.md >}}
+
+## Exercise 7.3
+
+{{< include ../solutions/07-3.md >}}
+
+## Exercise 7.4
+
+{{< include ../solutions/07-4.md >}}
+
+## Exercise 7.5
+
+{{< include ../solutions/07-5.md >}}
+
+## Exercise 7.6
+
+{{< include ../solutions/07-6.md >}}
+
+## Exercise 7.7
+
+{{< include ../solutions/07-7.md >}}
+
+## Exercise 7.8
+
+{{< include ../solutions/07-8.md >}}
+
+## Exercise 7.9
+
+{{< include ../solutions/07-9.md >}}
+
+## Exercise 7.10
+
+{{< include ../solutions/07-10.md >}}
+
+## Exercise 7.11
+
+{{< include ../solutions/07-11.md >}}
+
+## Exercise 7.12
+
+{{< include ../solutions/07-12.md >}}
+
+## Exercise 7.13
+
+{{< include ../solutions/07-13.md >}}
+
+## Exercise 7.14
+
+{{< include ../solutions/07-14.md >}}
+
+## Exercise 7.15
+
+{{< include ../solutions/07-15.md >}}
+
+## Exercise 7.16
+
+{{< include ../solutions/07-16.md >}}
+
+## Exercise 7.17
+
+{{< include ../solutions/07-17.md >}}
+
+## Exercise 7.18
+
+{{< include ../solutions/07-18.md >}}
+
+## Exercise 7.19
+
+{{< include ../solutions/07-19.md >}}
+
+## Exercise 7.20
+
+{{< include ../solutions/07-20.md >}}
+
+## Exercise 7.21
+
+{{< include ../solutions/07-21.md >}}
+
+## Exercise 7.22
+
+{{< include ../solutions/07-22.md >}}
+
+## Exercise 7.23
+
+{{< include ../solutions/07-23.md >}}
+
+## Exercise 7.24
+
+{{< include ../solutions/07-24.md >}}
+
+## Exercise 7.25
+
+{{< include ../solutions/07-25.md >}}
+
+## Exercise 7.26
+
+{{< include ../solutions/07-26.md >}}
+
+## Exercise 7.27
+
+{{< include ../solutions/07-27.md >}}
+
+## Exercise 7.28
+
+{{< include ../solutions/07-28.md >}}
+
+## Exercise 7.29
+
+{{< include ../solutions/07-29.md >}}
+
+## Exercise 7.30
+
+{{< include ../solutions/07-30.md >}}
+
+## Exercise 7.31
+
+{{< include ../solutions/07-31.md >}}
+
+## Exercise 7.32
+
+{{< include ../solutions/07-32.md >}}
+
+## Exercise 7.33
+
+{{< include ../solutions/07-33.md >}}
+
+## Exercise 7.34
+
+{{< include ../solutions/07-34.md >}}
+
+## Exercise 7.35
+
+{{< include ../solutions/07-35.md >}}
+
+## Exercise 7.36
+
+{{< include ../solutions/07-36.md >}}
+
+## Exercise 7.37
+
+{{< include ../solutions/07-37.md >}}
+
+## Exercise 7.38
+
+{{< include ../solutions/07-38.md >}}
+
+## Exercise 7.39
+
+{{< include ../solutions/07-39.md >}}
+
+## Exercise 7.40
+
+{{< include ../solutions/07-40.md >}}
+
+## Exercise 7.41
+
+{{< include ../solutions/07-41.md >}}
+
+## Exercise 7.42
+
+{{< include ../solutions/07-42.md >}}
+
+## Exercise 7.43
+
+{{< include ../solutions/07-43.md >}}
+
+## Exercise 7.44
+
+{{< include ../solutions/07-44.md >}}
+
+## Exercise 7.45
+
+{{< include ../solutions/07-45.md >}}
+
+## Exercise 7.46
+
+{{< include ../solutions/07-46.md >}}
+
+## Exercise 7.47
+
+{{< include ../solutions/07-47.md >}}
+
+## Exercise 7.48
+
+{{< include ../solutions/07-48.md >}}
+
+## Exercise 7.49
+
+{{< include ../solutions/07-49.md >}}
+
+## Exercise 7.50
+
+{{< include ../solutions/07-50.md >}}
+
+## Exercise 7.51
+
+{{< include ../solutions/07-51.md >}}
+
+## Exercise 7.52
+
+{{< include ../solutions/07-52.md >}}
+
+## Exercise 7.53
+
+{{< include ../solutions/07-53.md >}}
+
+## Exercise 7.54
+
+{{< include ../solutions/07-54.md >}}
+
+## Exercise 7.55
+
+{{< include ../solutions/07-55.md >}}
+
+## Exercise 7.56
+
+{{< include ../solutions/07-56.md >}}
+
+## Exercise 7.57
+
+{{< include ../solutions/07-57.md >}}
+
+## Exercise 7.58
+
+{{< include ../solutions/07-58.md >}}
+
+## Exercise 7.59
+
+{{< include ../solutions/07-59.md >}}
+
+## Exercise 7.60
+
+{{< include ../solutions/07-60.md >}}
+
+## Exercise 7.61
+
+{{< include ../solutions/07-61.md >}}
+
+## Exercise 7.62
+
+{{< include ../solutions/07-62.md >}}
+
+## Exercise 7.63
+
+{{< include ../solutions/07-63.md >}}
+
+## Exercise 7.64
+
+{{< include ../solutions/07-64.md >}}
+
+## Exercise 7.65
+
+{{< include ../solutions/07-65.md >}}
+
+## Exercise 7.66
+
+{{< include ../solutions/07-66.md >}}
+
+## Exercise 7.67
+
+{{< include ../solutions/07-67.md >}}

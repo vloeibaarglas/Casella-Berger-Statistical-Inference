@@ -1,0 +1,8 @@
+---
+title: "Worked Solutions to Casella & Berger, Statistical Inference (2e)"
+subtitle: "Solutions only — no textbook problem statements reproduced"
+---
+
+Worked solutions to all 625 exercises in Casella & Berger, *Statistical Inference* (2nd ed., 2024 CRC Press/Chapman & Hall reprint) — for self-study. **Solutions only; no problem statements reproduced.**
+
+Found a mistake? Corrections are welcome — please open a PR.

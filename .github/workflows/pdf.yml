@@ -1,0 +1,80 @@
+name: Build solutions PDF
+
+on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - 'casella-berger-solutions.pdf'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Collate solutions into one document
+        run: |
+          python3 << 'EOF'
+          import re
+          from pathlib import Path
+
+          repo = Path(".")
+          files = sorted(
+              (repo / "solutions").glob("*.md"),
+              key=lambda p: (int(p.stem.split("-")[0]), int(p.stem.split("-", 1)[1])),
+          )
+
+          parts = [
+              "---",
+              "title: Worked Solutions to Casella \\& Berger, Statistical Inference (2e)",
+              "subtitle: Solutions only --- no textbook problem statements reproduced",
+              "toc-title: Contents",
+              "---",
+              "",
+          ]
+          cur = None
+          for f in files:
+              text = f.read_text(encoding="utf-8")
+              text = re.sub(
+                  r"\{\{\s*'/plots/([^']+)'\s*\|\s*relative_url\s*\}\}",
+                  r"plots/\1",
+                  text,
+              )
+              ch, ex = f.stem.split("-", 1)
+              ch = int(ch)
+              if ch != cur:
+                  cur = ch
+                  parts += [f"# Chapter {ch}", ""]
+              text = re.sub(r"\A\s*\*Casella & Berger.*?\*\n+", "", text, flags=re.S)
+              parts += [f"## Exercise {ch}.{ex}", "", text.strip(), ""]
+
+          (repo / "book.md").write_text("\n".join(parts), encoding="utf-8")
+          print(f"collated {len(files)} solutions")
+          EOF
+
+      - name: Build PDF with Pandoc (Docker)
+        run: |
+          docker run --rm -v "${{ github.workspace }}:/data" --entrypoint pandoc pandoc/latex:3.11 \
+            /data/book.md -o /data/casella-berger-solutions.pdf \
+              --pdf-engine=xelatex \
+              -V geometry:margin=1in \
+              --toc --toc-depth=2
+          ls -la casella-berger-solutions.pdf
+
+      - name: Commit PDF
+        run: |
+          git config user.name "vloeibaarglas"
+          git config user.email "vloeibaarglas@users.noreply.github.com"
+          git add casella-berger-solutions.pdf
+          git status --short
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "Rebuild solutions PDF [skip ci]"
+            git push
+          fi

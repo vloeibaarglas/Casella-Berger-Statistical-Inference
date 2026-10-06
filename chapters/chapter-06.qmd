@@ -1,0 +1,173 @@
+# Chapter 6
+
+## Exercise 6.1
+
+{{< include ../solutions/06-1.md >}}
+
+## Exercise 6.2
+
+{{< include ../solutions/06-2.md >}}
+
+## Exercise 6.3
+
+{{< include ../solutions/06-3.md >}}
+
+## Exercise 6.4
+
+{{< include ../solutions/06-4.md >}}
+
+## Exercise 6.5
+
+{{< include ../solutions/06-5.md >}}
+
+## Exercise 6.6
+
+{{< include ../solutions/06-6.md >}}
+
+## Exercise 6.7
+
+{{< include ../solutions/06-7.md >}}
+
+## Exercise 6.8
+
+{{< include ../solutions/06-8.md >}}
+
+## Exercise 6.9
+
+{{< include ../solutions/06-9.md >}}
+
+## Exercise 6.10
+
+{{< include ../solutions/06-10.md >}}
+
+## Exercise 6.11
+
+{{< include ../solutions/06-11.md >}}
+
+## Exercise 6.12
+
+{{< include ../solutions/06-12.md >}}
+
+## Exercise 6.13
+
+{{< include ../solutions/06-13.md >}}
+
+## Exercise 6.14
+
+{{< include ../solutions/06-14.md >}}
+
+## Exercise 6.15
+
+{{< include ../solutions/06-15.md >}}
+
+## Exercise 6.16
+
+{{< include ../solutions/06-16.md >}}
+
+## Exercise 6.17
+
+{{< include ../solutions/06-17.md >}}
+
+## Exercise 6.18
+
+{{< include ../solutions/06-18.md >}}
+
+## Exercise 6.19
+
+{{< include ../solutions/06-19.md >}}
+
+## Exercise 6.20
+
+{{< include ../solutions/06-20.md >}}
+
+## Exercise 6.21
+
+{{< include ../solutions/06-21.md >}}
+
+## Exercise 6.22
+
+{{< include ../solutions/06-22.md >}}
+
+## Exercise 6.23
+
+{{< include ../solutions/06-23.md >}}
+
+## Exercise 6.24
+
+{{< include ../solutions/06-24.md >}}
+
+## Exercise 6.25
+
+{{< include ../solutions/06-25.md >}}
+
+## Exercise 6.26
+
+{{< include ../solutions/06-26.md >}}
+
+## Exercise 6.27
+
+{{< include ../solutions/06-27.md >}}
+
+## Exercise 6.28
+
+{{< include ../solutions/06-28.md >}}
+
+## Exercise 6.29
+
+{{< include ../solutions/06-29.md >}}
+
+## Exercise 6.30
+
+{{< include ../solutions/06-30.md >}}
+
+## Exercise 6.31
+
+{{< include ../solutions/06-31.md >}}
+
+## Exercise 6.32
+
+{{< include ../solutions/06-32.md >}}
+
+## Exercise 6.33
+
+{{< include ../solutions/06-33.md >}}
+
+## Exercise 6.34
+
+{{< include ../solutions/06-34.md >}}
+
+## Exercise 6.35
+
+{{< include ../solutions/06-35.md >}}
+
+## Exercise 6.36
+
+{{< include ../solutions/06-36.md >}}
+
+## Exercise 6.37
+
+{{< include ../solutions/06-37.md >}}
+
+## Exercise 6.38
+
+{{< include ../solutions/06-38.md >}}
+
+## Exercise 6.39
+
+{{< include ../solutions/06-39.md >}}
+
+## Exercise 6.40
+
+{{< include ../solutions/06-40.md >}}
+
+## Exercise 6.41
+
+{{< include ../solutions/06-41.md >}}
+
+## Exercise 6.42
+
+{{< include ../solutions/06-42.md >}}
+
+## Exercise 6.43
+
+{{< include ../solutions/06-43.md >}}

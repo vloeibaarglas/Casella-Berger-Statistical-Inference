@@ -1,0 +1,261 @@
+# Chapter 4
+
+## Exercise 4.1
+
+{{< include ../solutions/04-1.md >}}
+
+## Exercise 4.2
+
+{{< include ../solutions/04-2.md >}}
+
+## Exercise 4.3
+
+{{< include ../solutions/04-3.md >}}
+
+## Exercise 4.4
+
+{{< include ../solutions/04-4.md >}}
+
+## Exercise 4.5
+
+{{< include ../solutions/04-5.md >}}
+
+## Exercise 4.6
+
+{{< include ../solutions/04-6.md >}}
+
+## Exercise 4.7
+
+{{< include ../solutions/04-7.md >}}
+
+## Exercise 4.8
+
+{{< include ../solutions/04-8.md >}}
+
+## Exercise 4.9
+
+{{< include ../solutions/04-9.md >}}
+
+## Exercise 4.10
+
+{{< include ../solutions/04-10.md >}}
+
+## Exercise 4.11
+
+{{< include ../solutions/04-11.md >}}
+
+## Exercise 4.12
+
+{{< include ../solutions/04-12.md >}}
+
+## Exercise 4.13
+
+{{< include ../solutions/04-13.md >}}
+
+## Exercise 4.14
+
+{{< include ../solutions/04-14.md >}}
+
+## Exercise 4.15
+
+{{< include ../solutions/04-15.md >}}
+
+## Exercise 4.16
+
+{{< include ../solutions/04-16.md >}}
+
+## Exercise 4.17
+
+{{< include ../solutions/04-17.md >}}
+
+## Exercise 4.18
+
+{{< include ../solutions/04-18.md >}}
+
+## Exercise 4.19
+
+{{< include ../solutions/04-19.md >}}
+
+## Exercise 4.20
+
+{{< include ../solutions/04-20.md >}}
+
+## Exercise 4.21
+
+{{< include ../solutions/04-21.md >}}
+
+## Exercise 4.22
+
+{{< include ../solutions/04-22.md >}}
+
+## Exercise 4.23
+
+{{< include ../solutions/04-23.md >}}
+
+## Exercise 4.24
+
+{{< include ../solutions/04-24.md >}}
+
+## Exercise 4.25
+
+{{< include ../solutions/04-25.md >}}
+
+## Exercise 4.26
+
+{{< include ../solutions/04-26.md >}}
+
+## Exercise 4.27
+
+{{< include ../solutions/04-27.md >}}
+
+## Exercise 4.28
+
+{{< include ../solutions/04-28.md >}}
+
+## Exercise 4.29
+
+{{< include ../solutions/04-29.md >}}
+
+## Exercise 4.30
+
+{{< include ../solutions/04-30.md >}}
+
+## Exercise 4.31
+
+{{< include ../solutions/04-31.md >}}
+
+## Exercise 4.32
+
+{{< include ../solutions/04-32.md >}}
+
+## Exercise 4.33
+
+{{< include ../solutions/04-33.md >}}
+
+## Exercise 4.34
+
+{{< include ../solutions/04-34.md >}}
+
+## Exercise 4.35
+
+{{< include ../solutions/04-35.md >}}
+
+## Exercise 4.36
+
+{{< include ../solutions/04-36.md >}}
+
+## Exercise 4.37
+
+{{< include ../solutions/04-37.md >}}
+
+## Exercise 4.38
+
+{{< include ../solutions/04-38.md >}}
+
+## Exercise 4.39
+
+{{< include ../solutions/04-39.md >}}
+
+## Exercise 4.40
+
+{{< include ../solutions/04-40.md >}}
+
+## Exercise 4.41
+
+{{< include ../solutions/04-41.md >}}
+
+## Exercise 4.42
+
+{{< include ../solutions/04-42.md >}}
+
+## Exercise 4.43
+
+{{< include ../solutions/04-43.md >}}
+
+## Exercise 4.44
+
+{{< include ../solutions/04-44.md >}}
+
+## Exercise 4.45
+
+{{< include ../solutions/04-45.md >}}
+
+## Exercise 4.46
+
+{{< include ../solutions/04-46.md >}}
+
+## Exercise 4.47
+
+{{< include ../solutions/04-47.md >}}
+
+## Exercise 4.48
+
+{{< include ../solutions/04-48.md >}}
+
+## Exercise 4.49
+
+{{< include ../solutions/04-49.md >}}
+
+## Exercise 4.50
+
+{{< include ../solutions/04-50.md >}}
+
+## Exercise 4.51
+
+{{< include ../solutions/04-51.md >}}
+
+## Exercise 4.52
+
+{{< include ../solutions/04-52.md >}}
+
+## Exercise 4.53
+
+{{< include ../solutions/04-53.md >}}
+
+## Exercise 4.54
+
+{{< include ../solutions/04-54.md >}}
+
+## Exercise 4.55
+
+{{< include ../solutions/04-55.md >}}
+
+## Exercise 4.56
+
+{{< include ../solutions/04-56.md >}}
+
+## Exercise 4.57
+
+{{< include ../solutions/04-57.md >}}
+
+## Exercise 4.58
+
+{{< include ../solutions/04-58.md >}}
+
+## Exercise 4.59
+
+{{< include ../solutions/04-59.md >}}
+
+## Exercise 4.60
+
+{{< include ../solutions/04-60.md >}}
+
+## Exercise 4.61
+
+{{< include ../solutions/04-61.md >}}
+
+## Exercise 4.62
+
+{{< include ../solutions/04-62.md >}}
+
+## Exercise 4.63
+
+{{< include ../solutions/04-63.md >}}
+
+## Exercise 4.64
+
+{{< include ../solutions/04-64.md >}}
+
+## Exercise 4.65
+
+{{< include ../solutions/04-65.md >}}
