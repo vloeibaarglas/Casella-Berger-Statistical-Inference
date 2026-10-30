@@ -1,0 +1,193 @@
+# Chapter 10
+
+## Exercise 10.1
+
+{{< include ../solutions/10-1.md >}}
+
+## Exercise 10.2
+
+{{< include ../solutions/10-2.md >}}
+
+## Exercise 10.3
+
+{{< include ../solutions/10-3.md >}}
+
+## Exercise 10.4
+
+{{< include ../solutions/10-4.md >}}
+
+## Exercise 10.5
+
+{{< include ../solutions/10-5.md >}}
+
+## Exercise 10.6
+
+{{< include ../solutions/10-6.md >}}
+
+## Exercise 10.7
+
+{{< include ../solutions/10-7.md >}}
+
+## Exercise 10.8
+
+{{< include ../solutions/10-8.md >}}
+
+## Exercise 10.9
+
+{{< include ../solutions/10-9.md >}}
+
+## Exercise 10.10
+
+{{< include ../solutions/10-10.md >}}
+
+## Exercise 10.11
+
+{{< include ../solutions/10-11.md >}}
+
+## Exercise 10.12
+
+{{< include ../solutions/10-12.md >}}
+
+## Exercise 10.13
+
+{{< include ../solutions/10-13.md >}}
+
+## Exercise 10.14
+
+{{< include ../solutions/10-14.md >}}
+
+## Exercise 10.15
+
+{{< include ../solutions/10-15.md >}}
+
+## Exercise 10.16
+
+{{< include ../solutions/10-16.md >}}
+
+## Exercise 10.17
+
+{{< include ../solutions/10-17.md >}}
+
+## Exercise 10.18
+
+{{< include ../solutions/10-18.md >}}
+
+## Exercise 10.19
+
+{{< include ../solutions/10-19.md >}}
+
+## Exercise 10.20
+
+{{< include ../solutions/10-20.md >}}
+
+## Exercise 10.21
+
+{{< include ../solutions/10-21.md >}}
+
+## Exercise 10.22
+
+{{< include ../solutions/10-22.md >}}
+
+## Exercise 10.23
+
+{{< include ../solutions/10-23.md >}}
+
+## Exercise 10.24
+
+{{< include ../solutions/10-24.md >}}
+
+## Exercise 10.25
+
+{{< include ../solutions/10-25.md >}}
+
+## Exercise 10.26
+
+{{< include ../solutions/10-26.md >}}
+
+## Exercise 10.27
+
+{{< include ../solutions/10-27.md >}}
+
+## Exercise 10.28
+
+{{< include ../solutions/10-28.md >}}
+
+## Exercise 10.29
+
+{{< include ../solutions/10-29.md >}}
+
+## Exercise 10.30
+
+{{< include ../solutions/10-30.md >}}
+
+## Exercise 10.31
+
+{{< include ../solutions/10-31.md >}}
+
+## Exercise 10.32
+
+{{< include ../solutions/10-32.md >}}
+
+## Exercise 10.33
+
+{{< include ../solutions/10-33.md >}}
+
+## Exercise 10.34
+
+{{< include ../solutions/10-34.md >}}
+
+## Exercise 10.35
+
+{{< include ../solutions/10-35.md >}}
+
+## Exercise 10.36
+
+{{< include ../solutions/10-36.md >}}
+
+## Exercise 10.37
+
+{{< include ../solutions/10-37.md >}}
+
+## Exercise 10.38
+
+{{< include ../solutions/10-38.md >}}
+
+## Exercise 10.39
+
+{{< include ../solutions/10-39.md >}}
+
+## Exercise 10.40
+
+{{< include ../solutions/10-40.md >}}
+
+## Exercise 10.41
+
+{{< include ../solutions/10-41.md >}}
+
+## Exercise 10.42
+
+{{< include ../solutions/10-42.md >}}
+
+## Exercise 10.43
+
+{{< include ../solutions/10-43.md >}}
+
+## Exercise 10.44
+
+{{< include ../solutions/10-44.md >}}
+
+## Exercise 10.45
+
+{{< include ../solutions/10-45.md >}}
+
+## Exercise 10.46
+
+{{< include ../solutions/10-46.md >}}
+
+## Exercise 10.47
+
+{{< include ../solutions/10-47.md >}}
+
+## Exercise 10.48
+
+{{< include ../solutions/10-48.md >}}

@@ -1,0 +1,233 @@
+# Chapter 8
+
+## Exercise 8.1
+
+{{< include ../solutions/08-1.md >}}
+
+## Exercise 8.2
+
+{{< include ../solutions/08-2.md >}}
+
+## Exercise 8.3
+
+{{< include ../solutions/08-3.md >}}
+
+## Exercise 8.4
+
+{{< include ../solutions/08-4.md >}}
+
+## Exercise 8.5
+
+{{< include ../solutions/08-5.md >}}
+
+## Exercise 8.6
+
+{{< include ../solutions/08-6.md >}}
+
+## Exercise 8.7
+
+{{< include ../solutions/08-7.md >}}
+
+## Exercise 8.8
+
+{{< include ../solutions/08-8.md >}}
+
+## Exercise 8.9
+
+{{< include ../solutions/08-9.md >}}
+
+## Exercise 8.10
+
+{{< include ../solutions/08-10.md >}}
+
+## Exercise 8.11
+
+{{< include ../solutions/08-11.md >}}
+
+## Exercise 8.12
+
+{{< include ../solutions/08-12.md >}}
+
+## Exercise 8.13
+
+{{< include ../solutions/08-13.md >}}
+
+## Exercise 8.14
+
+{{< include ../solutions/08-14.md >}}
+
+## Exercise 8.15
+
+{{< include ../solutions/08-15.md >}}
+
+## Exercise 8.16
+
+{{< include ../solutions/08-16.md >}}
+
+## Exercise 8.17
+
+{{< include ../solutions/08-17.md >}}
+
+## Exercise 8.18
+
+{{< include ../solutions/08-18.md >}}
+
+## Exercise 8.19
+
+{{< include ../solutions/08-19.md >}}
+
+## Exercise 8.20
+
+{{< include ../solutions/08-20.md >}}
+
+## Exercise 8.21
+
+{{< include ../solutions/08-21.md >}}
+
+## Exercise 8.22
+
+{{< include ../solutions/08-22.md >}}
+
+## Exercise 8.23
+
+{{< include ../solutions/08-23.md >}}
+
+## Exercise 8.24
+
+{{< include ../solutions/08-24.md >}}
+
+## Exercise 8.25
+
+{{< include ../solutions/08-25.md >}}
+
+## Exercise 8.26
+
+{{< include ../solutions/08-26.md >}}
+
+## Exercise 8.27
+
+{{< include ../solutions/08-27.md >}}
+
+## Exercise 8.28
+
+{{< include ../solutions/08-28.md >}}
+
+## Exercise 8.29
+
+{{< include ../solutions/08-29.md >}}
+
+## Exercise 8.30
+
+{{< include ../solutions/08-30.md >}}
+
+## Exercise 8.31
+
+{{< include ../solutions/08-31.md >}}
+
+## Exercise 8.32
+
+{{< include ../solutions/08-32.md >}}
+
+## Exercise 8.33
+
+{{< include ../solutions/08-33.md >}}
+
+## Exercise 8.34
+
+{{< include ../solutions/08-34.md >}}
+
+## Exercise 8.35
+
+{{< include ../solutions/08-35.md >}}
+
+## Exercise 8.36
+
+{{< include ../solutions/08-36.md >}}
+
+## Exercise 8.37
+
+{{< include ../solutions/08-37.md >}}
+
+## Exercise 8.38
+
+{{< include ../solutions/08-38.md >}}
+
+## Exercise 8.39
+
+{{< include ../solutions/08-39.md >}}
+
+## Exercise 8.40
+
+{{< include ../solutions/08-40.md >}}
+
+## Exercise 8.41
+
+{{< include ../solutions/08-41.md >}}
+
+## Exercise 8.42
+
+{{< include ../solutions/08-42.md >}}
+
+## Exercise 8.43
+
+{{< include ../solutions/08-43.md >}}
+
+## Exercise 8.44
+
+{{< include ../solutions/08-44.md >}}
+
+## Exercise 8.45
+
+{{< include ../solutions/08-45.md >}}
+
+## Exercise 8.46
+
+{{< include ../solutions/08-46.md >}}
+
+## Exercise 8.47
+
+{{< include ../solutions/08-47.md >}}
+
+## Exercise 8.48
+
+{{< include ../solutions/08-48.md >}}
+
+## Exercise 8.49
+
+{{< include ../solutions/08-49.md >}}
+
+## Exercise 8.50
+
+{{< include ../solutions/08-50.md >}}
+
+## Exercise 8.51
+
+{{< include ../solutions/08-51.md >}}
+
+## Exercise 8.52
+
+{{< include ../solutions/08-52.md >}}
+
+## Exercise 8.53
+
+{{< include ../solutions/08-53.md >}}
+
+## Exercise 8.54
+
+{{< include ../solutions/08-54.md >}}
+
+## Exercise 8.55
+
+{{< include ../solutions/08-55.md >}}
+
+## Exercise 8.56
+
+{{< include ../solutions/08-56.md >}}
+
+## Exercise 8.57
+
+{{< include ../solutions/08-57.md >}}
+
+## Exercise 8.58
+
+{{< include ../solutions/08-58.md >}}

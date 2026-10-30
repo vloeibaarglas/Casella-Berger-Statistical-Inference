@@ -1,0 +1,233 @@
+# Chapter 9
+
+## Exercise 9.1
+
+{{< include ../solutions/09-1.md >}}
+
+## Exercise 9.2
+
+{{< include ../solutions/09-2.md >}}
+
+## Exercise 9.3
+
+{{< include ../solutions/09-3.md >}}
+
+## Exercise 9.4
+
+{{< include ../solutions/09-4.md >}}
+
+## Exercise 9.5
+
+{{< include ../solutions/09-5.md >}}
+
+## Exercise 9.6
+
+{{< include ../solutions/09-6.md >}}
+
+## Exercise 9.7
+
+{{< include ../solutions/09-7.md >}}
+
+## Exercise 9.8
+
+{{< include ../solutions/09-8.md >}}
+
+## Exercise 9.9
+
+{{< include ../solutions/09-9.md >}}
+
+## Exercise 9.10
+
+{{< include ../solutions/09-10.md >}}
+
+## Exercise 9.11
+
+{{< include ../solutions/09-11.md >}}
+
+## Exercise 9.12
+
+{{< include ../solutions/09-12.md >}}
+
+## Exercise 9.13
+
+{{< include ../solutions/09-13.md >}}
+
+## Exercise 9.14
+
+{{< include ../solutions/09-14.md >}}
+
+## Exercise 9.15
+
+{{< include ../solutions/09-15.md >}}
+
+## Exercise 9.16
+
+{{< include ../solutions/09-16.md >}}
+
+## Exercise 9.17
+
+{{< include ../solutions/09-17.md >}}
+
+## Exercise 9.18
+
+{{< include ../solutions/09-18.md >}}
+
+## Exercise 9.19
+
+{{< include ../solutions/09-19.md >}}
+
+## Exercise 9.20
+
+{{< include ../solutions/09-20.md >}}
+
+## Exercise 9.21
+
+{{< include ../solutions/09-21.md >}}
+
+## Exercise 9.22
+
+{{< include ../solutions/09-22.md >}}
+
+## Exercise 9.23
+
+{{< include ../solutions/09-23.md >}}
+
+## Exercise 9.24
+
+{{< include ../solutions/09-24.md >}}
+
+## Exercise 9.25
+
+{{< include ../solutions/09-25.md >}}
+
+## Exercise 9.26
+
+{{< include ../solutions/09-26.md >}}
+
+## Exercise 9.27
+
+{{< include ../solutions/09-27.md >}}
+
+## Exercise 9.28
+
+{{< include ../solutions/09-28.md >}}
+
+## Exercise 9.29
+
+{{< include ../solutions/09-29.md >}}
+
+## Exercise 9.30
+
+{{< include ../solutions/09-30.md >}}
+
+## Exercise 9.31
+
+{{< include ../solutions/09-31.md >}}
+
+## Exercise 9.32
+
+{{< include ../solutions/09-32.md >}}
+
+## Exercise 9.33
+
+{{< include ../solutions/09-33.md >}}
+
+## Exercise 9.34
+
+{{< include ../solutions/09-34.md >}}
+
+## Exercise 9.35
+
+{{< include ../solutions/09-35.md >}}
+
+## Exercise 9.36
+
+{{< include ../solutions/09-36.md >}}
+
+## Exercise 9.37
+
+{{< include ../solutions/09-37.md >}}
+
+## Exercise 9.38
+
+{{< include ../solutions/09-38.md >}}
+
+## Exercise 9.39
+
+{{< include ../solutions/09-39.md >}}
+
+## Exercise 9.40
+
+{{< include ../solutions/09-40.md >}}
+
+## Exercise 9.41
+
+{{< include ../solutions/09-41.md >}}
+
+## Exercise 9.42
+
+{{< include ../solutions/09-42.md >}}
+
+## Exercise 9.43
+
+{{< include ../solutions/09-43.md >}}
+
+## Exercise 9.44
+
+{{< include ../solutions/09-44.md >}}
+
+## Exercise 9.45
+
+{{< include ../solutions/09-45.md >}}
+
+## Exercise 9.46
+
+{{< include ../solutions/09-46.md >}}
+
+## Exercise 9.47
+
+{{< include ../solutions/09-47.md >}}
+
+## Exercise 9.48
+
+{{< include ../solutions/09-48.md >}}
+
+## Exercise 9.49
+
+{{< include ../solutions/09-49.md >}}
+
+## Exercise 9.50
+
+{{< include ../solutions/09-50.md >}}
+
+## Exercise 9.51
+
+{{< include ../solutions/09-51.md >}}
+
+## Exercise 9.52
+
+{{< include ../solutions/09-52.md >}}
+
+## Exercise 9.53
+
+{{< include ../solutions/09-53.md >}}
+
+## Exercise 9.54
+
+{{< include ../solutions/09-54.md >}}
+
+## Exercise 9.55
+
+{{< include ../solutions/09-55.md >}}
+
+## Exercise 9.56
+
+{{< include ../solutions/09-56.md >}}
+
+## Exercise 9.57
+
+{{< include ../solutions/09-57.md >}}
+
+## Exercise 9.58
+
+{{< include ../solutions/09-58.md >}}

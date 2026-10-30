@@ -1,0 +1,221 @@
+# Chapter 1
+
+## Exercise 1.1
+
+{{< include ../solutions/01-1.md >}}
+
+## Exercise 1.2
+
+{{< include ../solutions/01-2.md >}}
+
+## Exercise 1.3
+
+{{< include ../solutions/01-3.md >}}
+
+## Exercise 1.4
+
+{{< include ../solutions/01-4.md >}}
+
+## Exercise 1.5
+
+{{< include ../solutions/01-5.md >}}
+
+## Exercise 1.6
+
+{{< include ../solutions/01-6.md >}}
+
+## Exercise 1.7
+
+{{< include ../solutions/01-7.md >}}
+
+## Exercise 1.8
+
+{{< include ../solutions/01-8.md >}}
+
+## Exercise 1.9
+
+{{< include ../solutions/01-9.md >}}
+
+## Exercise 1.10
+
+{{< include ../solutions/01-10.md >}}
+
+## Exercise 1.11
+
+{{< include ../solutions/01-11.md >}}
+
+## Exercise 1.12
+
+{{< include ../solutions/01-12.md >}}
+
+## Exercise 1.13
+
+{{< include ../solutions/01-13.md >}}
+
+## Exercise 1.14
+
+{{< include ../solutions/01-14.md >}}
+
+## Exercise 1.15
+
+{{< include ../solutions/01-15.md >}}
+
+## Exercise 1.16
+
+{{< include ../solutions/01-16.md >}}
+
+## Exercise 1.17
+
+{{< include ../solutions/01-17.md >}}
+
+## Exercise 1.18
+
+{{< include ../solutions/01-18.md >}}
+
+## Exercise 1.19
+
+{{< include ../solutions/01-19.md >}}
+
+## Exercise 1.20
+
+{{< include ../solutions/01-20.md >}}
+
+## Exercise 1.21
+
+{{< include ../solutions/01-21.md >}}
+
+## Exercise 1.22
+
+{{< include ../solutions/01-22.md >}}
+
+## Exercise 1.23
+
+{{< include ../solutions/01-23.md >}}
+
+## Exercise 1.24
+
+{{< include ../solutions/01-24.md >}}
+
+## Exercise 1.25
+
+{{< include ../solutions/01-25.md >}}
+
+## Exercise 1.26
+
+{{< include ../solutions/01-26.md >}}
+
+## Exercise 1.27
+
+{{< include ../solutions/01-27.md >}}
+
+## Exercise 1.28
+
+{{< include ../solutions/01-28.md >}}
+
+## Exercise 1.29
+
+{{< include ../solutions/01-29.md >}}
+
+## Exercise 1.30
+
+{{< include ../solutions/01-30.md >}}
+
+## Exercise 1.31
+
+{{< include ../solutions/01-31.md >}}
+
+## Exercise 1.32
+
+{{< include ../solutions/01-32.md >}}
+
+## Exercise 1.33
+
+{{< include ../solutions/01-33.md >}}
+
+## Exercise 1.34
+
+{{< include ../solutions/01-34.md >}}
+
+## Exercise 1.35
+
+{{< include ../solutions/01-35.md >}}
+
+## Exercise 1.36
+
+{{< include ../solutions/01-36.md >}}
+
+## Exercise 1.37
+
+{{< include ../solutions/01-37.md >}}
+
+## Exercise 1.38
+
+{{< include ../solutions/01-38.md >}}
+
+## Exercise 1.39
+
+{{< include ../solutions/01-39.md >}}
+
+## Exercise 1.40
+
+{{< include ../solutions/01-40.md >}}
+
+## Exercise 1.41
+
+{{< include ../solutions/01-41.md >}}
+
+## Exercise 1.42
+
+{{< include ../solutions/01-42.md >}}
+
+## Exercise 1.43
+
+{{< include ../solutions/01-43.md >}}
+
+## Exercise 1.44
+
+{{< include ../solutions/01-44.md >}}
+
+## Exercise 1.45
+
+{{< include ../solutions/01-45.md >}}
+
+## Exercise 1.46
+
+{{< include ../solutions/01-46.md >}}
+
+## Exercise 1.47
+
+{{< include ../solutions/01-47.md >}}
+
+## Exercise 1.48
+
+{{< include ../solutions/01-48.md >}}
+
+## Exercise 1.49
+
+{{< include ../solutions/01-49.md >}}
+
+## Exercise 1.50
+
+{{< include ../solutions/01-50.md >}}
+
+## Exercise 1.51
+
+{{< include ../solutions/01-51.md >}}
+
+## Exercise 1.52
+
+{{< include ../solutions/01-52.md >}}
+
+## Exercise 1.53
+
+{{< include ../solutions/01-53.md >}}
+
+## Exercise 1.54
+
+{{< include ../solutions/01-54.md >}}
+
+## Exercise 1.55
+
+{{< include ../solutions/01-55.md >}}

@@ -1,0 +1,277 @@
+# Chapter 5
+
+## Exercise 5.1
+
+{{< include ../solutions/05-1.md >}}
+
+## Exercise 5.2
+
+{{< include ../solutions/05-2.md >}}
+
+## Exercise 5.3
+
+{{< include ../solutions/05-3.md >}}
+
+## Exercise 5.4
+
+{{< include ../solutions/05-4.md >}}
+
+## Exercise 5.5
+
+{{< include ../solutions/05-5.md >}}
+
+## Exercise 5.6
+
+{{< include ../solutions/05-6.md >}}
+
+## Exercise 5.7
+
+{{< include ../solutions/05-7.md >}}
+
+## Exercise 5.8
+
+{{< include ../solutions/05-8.md >}}
+
+## Exercise 5.9
+
+{{< include ../solutions/05-9.md >}}
+
+## Exercise 5.10
+
+{{< include ../solutions/05-10.md >}}
+
+## Exercise 5.11
+
+{{< include ../solutions/05-11.md >}}
+
+## Exercise 5.12
+
+{{< include ../solutions/05-12.md >}}
+
+## Exercise 5.13
+
+{{< include ../solutions/05-13.md >}}
+
+## Exercise 5.14
+
+{{< include ../solutions/05-14.md >}}
+
+## Exercise 5.15
+
+{{< include ../solutions/05-15.md >}}
+
+## Exercise 5.16
+
+{{< include ../solutions/05-16.md >}}
+
+## Exercise 5.17
+
+{{< include ../solutions/05-17.md >}}
+
+## Exercise 5.18
+
+{{< include ../solutions/05-18.md >}}
+
+## Exercise 5.19
+
+{{< include ../solutions/05-19.md >}}
+
+## Exercise 5.20
+
+{{< include ../solutions/05-20.md >}}
+
+## Exercise 5.21
+
+{{< include ../solutions/05-21.md >}}
+
+## Exercise 5.22
+
+{{< include ../solutions/05-22.md >}}
+
+## Exercise 5.23
+
+{{< include ../solutions/05-23.md >}}
+
+## Exercise 5.24
+
+{{< include ../solutions/05-24.md >}}
+
+## Exercise 5.25
+
+{{< include ../solutions/05-25.md >}}
+
+## Exercise 5.26
+
+{{< include ../solutions/05-26.md >}}
+
+## Exercise 5.27
+
+{{< include ../solutions/05-27.md >}}
+
+## Exercise 5.28
+
+{{< include ../solutions/05-28.md >}}
+
+## Exercise 5.29
+
+{{< include ../solutions/05-29.md >}}
+
+## Exercise 5.30
+
+{{< include ../solutions/05-30.md >}}
+
+## Exercise 5.31
+
+{{< include ../solutions/05-31.md >}}
+
+## Exercise 5.32
+
+{{< include ../solutions/05-32.md >}}
+
+## Exercise 5.33
+
+{{< include ../solutions/05-33.md >}}
+
+## Exercise 5.34
+
+{{< include ../solutions/05-34.md >}}
+
+## Exercise 5.35
+
+{{< include ../solutions/05-35.md >}}
+
+## Exercise 5.36
+
+{{< include ../solutions/05-36.md >}}
+
+## Exercise 5.37
+
+{{< include ../solutions/05-37.md >}}
+
+## Exercise 5.38
+
+{{< include ../solutions/05-38.md >}}
+
+## Exercise 5.39
+
+{{< include ../solutions/05-39.md >}}
+
+## Exercise 5.40
+
+{{< include ../solutions/05-40.md >}}
+
+## Exercise 5.41
+
+{{< include ../solutions/05-41.md >}}
+
+## Exercise 5.42
+
+{{< include ../solutions/05-42.md >}}
+
+## Exercise 5.43
+
+{{< include ../solutions/05-43.md >}}
+
+## Exercise 5.44
+
+{{< include ../solutions/05-44.md >}}
+
+## Exercise 5.45
+
+{{< include ../solutions/05-45.md >}}
+
+## Exercise 5.46
+
+{{< include ../solutions/05-46.md >}}
+
+## Exercise 5.47
+
+{{< include ../solutions/05-47.md >}}
+
+## Exercise 5.48
+
+{{< include ../solutions/05-48.md >}}
+
+## Exercise 5.49
+
+{{< include ../solutions/05-49.md >}}
+
+## Exercise 5.50
+
+{{< include ../solutions/05-50.md >}}
+
+## Exercise 5.51
+
+{{< include ../solutions/05-51.md >}}
+
+## Exercise 5.52
+
+{{< include ../solutions/05-52.md >}}
+
+## Exercise 5.53
+
+{{< include ../solutions/05-53.md >}}
+
+## Exercise 5.54
+
+{{< include ../solutions/05-54.md >}}
+
+## Exercise 5.55
+
+{{< include ../solutions/05-55.md >}}
+
+## Exercise 5.56
+
+{{< include ../solutions/05-56.md >}}
+
+## Exercise 5.57
+
+{{< include ../solutions/05-57.md >}}
+
+## Exercise 5.58
+
+{{< include ../solutions/05-58.md >}}
+
+## Exercise 5.59
+
+{{< include ../solutions/05-59.md >}}
+
+## Exercise 5.60
+
+{{< include ../solutions/05-60.md >}}
+
+## Exercise 5.61
+
+{{< include ../solutions/05-61.md >}}
+
+## Exercise 5.62
+
+{{< include ../solutions/05-62.md >}}
+
+## Exercise 5.63
+
+{{< include ../solutions/05-63.md >}}
+
+## Exercise 5.64
+
+{{< include ../solutions/05-64.md >}}
+
+## Exercise 5.65
+
+{{< include ../solutions/05-65.md >}}
+
+## Exercise 5.66
+
+{{< include ../solutions/05-66.md >}}
+
+## Exercise 5.67
+
+{{< include ../solutions/05-67.md >}}
+
+## Exercise 5.68
+
+{{< include ../solutions/05-68.md >}}
+
+## Exercise 5.69
+
+{{< include ../solutions/05-69.md >}}
